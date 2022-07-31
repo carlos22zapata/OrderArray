@@ -1,0 +1,14 @@
+C:\Users\MyHP\source\repos\OrderArray\OrderArray\bin\Debug\netcoreapp3.1\OrderArray.exe
+C:\Users\MyHP\source\repos\OrderArray\OrderArray\bin\Debug\netcoreapp3.1\OrderArray.deps.json
+C:\Users\MyHP\source\repos\OrderArray\OrderArray\bin\Debug\netcoreapp3.1\OrderArray.runtimeconfig.json
+C:\Users\MyHP\source\repos\OrderArray\OrderArray\bin\Debug\netcoreapp3.1\OrderArray.runtimeconfig.dev.json
+C:\Users\MyHP\source\repos\OrderArray\OrderArray\bin\Debug\netcoreapp3.1\OrderArray.dll
+C:\Users\MyHP\source\repos\OrderArray\OrderArray\bin\Debug\netcoreapp3.1\OrderArray.pdb
+C:\Users\MyHP\source\repos\OrderArray\OrderArray\obj\Debug\netcoreapp3.1\OrderArray.csproj.AssemblyReference.cache
+C:\Users\MyHP\source\repos\OrderArray\OrderArray\obj\Debug\netcoreapp3.1\OrderArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyHP\source\repos\OrderArray\OrderArray\obj\Debug\netcoreapp3.1\OrderArray.AssemblyInfoInputs.cache
+C:\Users\MyHP\source\repos\OrderArray\OrderArray\obj\Debug\netcoreapp3.1\OrderArray.AssemblyInfo.cs
+C:\Users\MyHP\source\repos\OrderArray\OrderArray\obj\Debug\netcoreapp3.1\OrderArray.csproj.CoreCompileInputs.cache
+C:\Users\MyHP\source\repos\OrderArray\OrderArray\obj\Debug\netcoreapp3.1\OrderArray.dll
+C:\Users\MyHP\source\repos\OrderArray\OrderArray\obj\Debug\netcoreapp3.1\OrderArray.pdb
+C:\Users\MyHP\source\repos\OrderArray\OrderArray\obj\Debug\netcoreapp3.1\OrderArray.genruntimeconfig.cache
